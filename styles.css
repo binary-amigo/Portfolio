@@ -214,6 +214,10 @@ section {
     height: 2rem;
 }
 
+.linktree {
+    border-radius: 100%;    
+}
+
 /* BUTTONS */
 
 .btn-container{
@@ -281,7 +285,7 @@ section {
 }
 
 .about-pic{
-    border-radius: 2rem;
+    border-radius: 2rem;    
 }
 
 .arrow{
